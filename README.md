@@ -1,13 +1,15 @@
 <h1 align="center">Hola 👋, soy Wilber Jiménez Herrera (@WilberJH28)</h1>
+<h3 align="center">Ingeniero Informático | Desarrollador de Software | Apasionado por el Análisis de Datos</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+de+software;Apasionado+por+el+análisis+de+datos+y+la+automatización;Estudiante+de+Ingeniería+Informática&center=true&width=500&height=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ingeniero+Informático;Desarrollador+de+software+y+automatización;Apasionado+por+el+análisis+de+datos&center=true&width=500&height=25" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
+- 👨‍🎓 Soy **Ingeniero Informático**, con formación técnica y enfoque práctico en soluciones tecnológicas.
 - 🔭 Actualmente trabajando en proyectos de **desarrollo de software** y **automatización de tareas** tanto en entornos de escritorio como web.
 - 🌱 Aprendiendo y reforzando habilidades en **.NET (C#)**, **SQL Server**, **Visual Studio**, **Docker** y herramientas de control de versiones como **Git**.
 - 📊 Apasionado por el **análisis de datos** y la **visualización de información** con herramientas como **Power BI**, **Excel avanzado**, y **Python (pandas, matplotlib)**.
@@ -15,7 +17,6 @@
 - 💬 Disfruto compartir conocimientos sobre desarrollo en C#, bases de datos, consultas SQL optimizadas, análisis exploratorio de datos, y automatización de reportes.
 
 ---
-
 ## 🔧 Tecnologías que uso
 
 ### 💻 Desarrollo de software:
