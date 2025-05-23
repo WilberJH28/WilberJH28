@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋, soy Wilber Jiménez Herrera (@WilberJH28)</h1>
 <h3 align="center">Ingeniero Informático | Desarrollador de Software | Apasionado por el Análisis de Datos</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ingeniero+Informático;Desarrollador+de+software+y+automatización;Apasionado+por+el+análisis+de+datos&center=true&width=500&height=25" />
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mí
