@@ -22,7 +22,7 @@
 ### 💻 Desarrollo de software:
 - Lenguajes: `C#`, `JavaScript`, `HTML/CSS`
 - Entornos: `Visual Studio`, `Visual Studio Code`
-- Bases de datos: `SQL Server`, `SQLite`
+- Bases de datos: `SQL Server`, `MySQL`
 - Contenedores y despliegue: `Docker`
 - Control de versiones: `Git` y `GitHub`
 
